@@ -1,3 +1,4 @@
+#шоста
 import sys
 sys.setrecursionlimit(200000)
 
