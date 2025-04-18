@@ -20,5 +20,5 @@ while i < n and j < m:
 result.extend(a[i:])
 result.extend(b[j:])
 
-# Вивід результату
+# Вивід результів
 print(*result)
