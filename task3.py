@@ -9,7 +9,7 @@ operation_map = {
 n = int(input())
 permissions = {}
 
-# Зчитуємо права доступу до кожного файлу
+#Зчитуємо права доступу до кожного файлу
 for _ in range(n):
     parts = input().split()
     filename = parts[0]
