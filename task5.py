@@ -36,5 +36,5 @@ for num in nums:
         break
     root = insert(root, num)
 
-# Вивід результату
+# Вивід результатів
 print("YES" if is_balanced(root) else "NO")
